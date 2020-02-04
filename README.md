@@ -1,4 +1,6 @@
 ## Instructions for Contributing to the Docs/Website
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapurvadave%2Fkubernetes.github.io.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapurvadave%2Fkubernetes.github.io?ref=badge_shield)
+
 
 Welcome! We are very pleased you want to contribute to the documentation and/or website for Kubernetes.
 
@@ -161,3 +163,7 @@ Partners can get their logos added to the partner section of the [community page
 
 Kubernetes thrives on community participation and we really appreciate your
 contributions to our site and our documentation!
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapurvadave%2Fkubernetes.github.io.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapurvadave%2Fkubernetes.github.io?ref=badge_large)
